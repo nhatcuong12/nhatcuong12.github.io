@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on My blog</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in Javascript on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Học Lập Trình Java tại Cisco</title>
+      <link>http://localhost:1313/english/post/redirect/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/redirect/</guid>
+      
+        <description>Chuyển hướng đến Cisco để học lập trình Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Học Lập Trình Java tại Cisco</title>
+      <link>http://localhost:1313/post/redirect/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/redirect/</guid>
+      
+        <description>Chuyển hướng đến Cisco để học lập trình Java</description>
+      
+    </item>
+    
+  </channel>
+</rss>

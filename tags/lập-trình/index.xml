@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập Trình on My blog</title>
+    <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới Thiệu Về Java</title>
+      <link>http://localhost:1313/english/post/notice-shortcode/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/notice-shortcode/</guid>
+      
+        <description><p>Java là một ngôn ngữ lập trình phổ biến, mạnh mẽ và đa năng. Bài viết này sẽ giới thiệu về Java và các tính năng nổi bật của nó.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Giới Thiệu Về Java</title>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      
+        <description><p>Java là một ngôn ngữ lập trình phổ biến, mạnh mẽ và đa năng. Bài viết này sẽ giới thiệu về Java và các tính năng nổi bật của nó.</p></description>
+      
+    </item>
+    
+    <item>
+      <title>Điểm Nổi Bật Của Java</title>
+      <link>http://localhost:1313/english/post/emoji-support/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/emoji-support/</guid>
+      
+        <description>Tổng quan về các đặc điểm nổi bật của Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Điểm Nổi Bật Của Java</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      
+        <description>Tổng quan về các đặc điểm nổi bật của Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Khái Niệm Tính Trừu Tượng Trong Java</title>
+      <link>http://localhost:1313/english/post/placeholder-text/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/placeholder-text/</guid>
+      
+        <description>Hiểu về tính trừu tượng trong lập trình Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Khái Niệm Tính Trừu Tượng Trong Java</title>
+      <link>http://localhost:1313/post/placeholder-text/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      
+        <description>Hiểu về tính trừu tượng trong lập trình Java</description>
+      
+    </item>
+    
+  </channel>
+</rss>

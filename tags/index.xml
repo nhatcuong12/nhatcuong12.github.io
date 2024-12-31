@@ -6,22 +6,11 @@
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo</title>
-      <link>http://localhost:1313/tags/demo/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/demo/</guid>
-      
-        <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Fri, 27 Dec 2024 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
       <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/index/</guid>
       
@@ -30,110 +19,99 @@
     </item>
     
     <item>
-      <title>Shortcode</title>
-      <link>http://localhost:1313/tags/shortcode/</link>
-      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/shortcode/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/tags/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/redirect/</guid>
+      <guid>http://localhost:1313/tags/java/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>RedirectUrl</title>
-      <link>http://localhost:1313/tags/redirecturl/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Lập Trình</title>
+      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/redirecturl/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Ngôn Ngữ</title>
+      <link>http://localhost:1313/tags/ng%C3%B4n-ng%E1%BB%AF/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/html/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/ng%C3%B4n-ng%E1%BB%AF/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/programming/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Recursion</title>
+      <link>http://localhost:1313/tags/recursion/</link>
+      <pubDate>Fri, 27 Dec 2024 21:47:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>http://localhost:1313/tags/recursion/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Cisco</title>
+      <link>http://localhost:1313/tags/cisco/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>http://localhost:1313/tags/cisco/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Học Lập Trình</title>
+      <link>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Method Overloading</title>
+      <link>http://localhost:1313/tags/method-overloading/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/method-overloading/</guid>
       
         <description></description>
       
@@ -142,9 +120,42 @@
     <item>
       <title>Thumbnail</title>
       <link>http://localhost:1313/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/thumbnail/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trừu Tượng</title>
+      <link>http://localhost:1313/tags/tr%E1%BB%ABu-t%C6%B0%E1%BB%A3ng/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tr%E1%BB%ABu-t%C6%B0%E1%BB%A3ng/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>عربي</title>
+      <link>http://localhost:1313/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
       
         <description></description>
       

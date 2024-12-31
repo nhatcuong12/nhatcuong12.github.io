@@ -6,15 +6,26 @@
     <description>Recent content in Thumbnail on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guide to Thumbnails in Hugo</title>
+      <title>HƯỚNG DẪN VỀ THUMBNAIL TRONG HUGO</title>
+      <link>http://localhost:1313/english/post/image-test/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/image-test/</guid>
+      
+        <description>Hướng dẫn sử dụng thumbnail trong Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>HƯỚNG DẪN VỀ THUMBNAIL TRONG HUGO</title>
       <link>http://localhost:1313/post/image-test/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/post/image-test/</guid>
       
-        <description>Guide to Thumbnails in Hugo</description>
+        <description>Hướng dẫn sử dụng thumbnail trong Hugo</description>
       
     </item>
     
